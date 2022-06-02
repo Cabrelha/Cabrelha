@@ -14,7 +14,7 @@
   <img align="center" alt="Cabrelha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cabrelha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cabrelha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="right" alt="Cabrelha-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/840376652739641380/982043117953884221/ezgif.com-gif-maker.gif">
 </div>
   
   ##
@@ -23,7 +23,6 @@
   <a href="https://twitter.com/CabrelhaS2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://discordapp.com/users/Cabrelha#6192" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiago.mello.porto@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Cabrelha-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/840376652739641380/982043117953884221/ezgif.com-gif-maker.gif">
     
 ![Snake animation](https://github.com/cabrelha/cabrelha/blob/output/github-contribution-grid-snake.svg)
 </div>
