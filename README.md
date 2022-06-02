@@ -14,11 +14,11 @@
   <img align="center" alt="Cabrelha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cabrelha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cabrelha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Cabrelha-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/840376652739641380/982043117953884221/ezgif.com-gif-maker.gif">
 </div>
   
   ##
   <div> 
+  <img align="right" alt="Cabrelha-pic" height="120" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/840376652739641380/982043117953884221/ezgif.com-gif-maker.gif">
   <a href="https://www.instagram.com/tm_porto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/CabrelhaS2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://discordapp.com/users/Cabrelha#6192" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
