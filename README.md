@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🐑Prazer, Cabrelha aqui!🐏
 
 
 - 🔭 Hoje trabalho com consertos de computadores
@@ -14,6 +14,16 @@
   <img align="center" alt="Cabrelha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cabrelha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cabrelha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Cabrelha-pic" height="105" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/840376652739641380/981777599644708924/cabrelha_com_gradiente_leve.gif>
+  <img align="right" alt="Cabrelha-pic" src="https://raw.githubusercontent.com/Cabrelha/Cabrelha/main/cabrelha%20com%20gradiente%20leve.gif">
 </div>
+  
+##
+  
+  <div> 
+  <a href="https://www.instagram.com/tm_porto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/Cabrelha#6192" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thiago.mello.porto@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/JGomes23/JGomes23/blob/output/github-contribution-grid-snake.svg)
  
+</div>
