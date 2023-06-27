@@ -21,6 +21,8 @@
   <a href="https://www.instagram.com/tm_porto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/CabrelhaS2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://discordapp.com/users/Cabrelha#6192" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/Cabrelha" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+    
   <img align="right" alt="Cabrelha-pic" height="90" width="120" src="https://cdn.discordapp.com/attachments/840376652739641380/982043117953884221/ezgif.com-gif-maker.gif">
     
 ![Snake animation](https://github.com/cabrelha/cabrelha/blob/output/github-contribution-grid-snake.svg)
